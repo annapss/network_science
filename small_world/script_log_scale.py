@@ -20,7 +20,6 @@ def simulacao_watts_strogatz():
     c0 = nx.average_clustering(modelo)
 
     for i, p in enumerate(graus_medios_a_testar):
-        lista_tamanho_gcc = []
         lista_cp_temp = []
         lista_lp_temp = []
 
