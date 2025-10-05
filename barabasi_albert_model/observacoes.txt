@@ -1,0 +1,7 @@
+Pergunta 1: Plote a distribuição de grau (na forma cumulativa complementar) para os grafos intermediários com N = 100, 1K e 10K vértices. E A distribuição "converge" para uma forma específica?
+
+- A forma ficou de acordo com a Lei de Potência, ou seja, a forma de uma reta
+
+Pergunta 2: Identifique quem são os vértices com os 20 maiores graus, para estes três grafos intermediários. Eles são sempre os mesmos, na mesma ordem? Como a razão entre o maior grau e os graus dos outros 19 destes vértices muda em função de N?
+
+- De acordo com o plot que eu fiz, quanto maior o valor de N, menor a razão entre o maior grau e outros 19 maiores vértices. O que eu achei interessante é que os 20 vértices que têm maior grau são os mesmos entre as diferentes redes.
