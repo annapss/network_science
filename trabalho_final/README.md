@@ -1,4 +1,4 @@
-# trbalho final
+# Trabalho Final
 
 Aqui explico como foram calculadas as métricas que foram apresentados no trabalho final da disciplina de Ciência de Redes.
 
