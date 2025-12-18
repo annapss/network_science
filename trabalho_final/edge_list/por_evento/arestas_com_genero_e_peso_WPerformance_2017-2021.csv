@@ -1,0 +1,430 @@
+Autor1,Gênero_Autor1,Autor2,Gênero_Autor2,Peso
+Alex B. Vieira,Homem,Artur Ziviani,Homem,2
+Alex B. Vieira,Homem,Breno Machado,Homem,1
+Alex B. Vieira,Homem,Edelberto Franco,Homem,1
+Alex B. Vieira,Homem,Francisco Airton Silva,Homem,1
+Alex B. Vieira,Homem,Frederico O. Sales,Homem,1
+Alex B. Vieira,Homem,Glauber Dias Gonçalves,Homem,1
+Alex B. Vieira,Homem,Gustavo S. Carnivali,Homem,1
+Alex B. Vieira,Homem,Italo Cunha,Homem,1
+Alex B. Vieira,Homem,Jussara Almeida,Mulher,1
+Alex B. Vieira,Homem,Paulo A. A. Esquef,Homem,1
+Alex B. Vieira,Homem,Samuel de Oliveira Ribeiro,Homem,1
+Alexandre C. B. Delbem,Homem,Daniel R. F. Bonetti,Homem,1
+Alexandre C. B. Delbem,Homem,Gesiel Rios Lopes,Homem,1
+Alexandre C. B. Delbem,Homem,Gonzalo Travieso,Homem,1
+Alexandre C. B. Delbem,Homem,Kalinka Branco,Mulher,1
+Alexandre C. B. Delbem,Homem,Paulo S. L. Souza,Homem,1
+Alexandre Sztajnberg,Homem,Gabriel F. C. de Queiroz,Homem,1
+Alexandre Sztajnberg,Homem,Rodrigo S. Couto,Homem,1
+Aline Paes,Mulher,André Nascimento,Homem,1
+Aline Paes,Mulher,Daniel de Oliveira,Homem,1
+Aline Paes,Mulher,Victor Olimpio,Homem,1
+Ana Caroline Fernandes Spengler,Mulher,Paulo Sérgio Lopes de Souza,Homem,1
+Ana Paula Couto da Silva,Mulher,Bruno Demattos Nogueira,Homem,2
+Ana Paula Couto da Silva,Mulher,Fabricio Murai,Homem,2
+Ana Paula Couto da Silva,Mulher,Francisco Galuppo Azevedo,Homem,2
+Anderson J. C. Sena,Homem,Fabricio J. B. Brito,Homem,1
+Anderson J. C. Sena,Homem,Filipe C. Fernandes,Homem,1
+Anderson J. C. Sena,Homem,Ramon C. F. Araújo,Homem,1
+Anderson J. C. Sena,Homem,Rodrigo M. S. Oliveira,Homem,1
+Andre Bulcão,Homem,André Yokoyama,Homem,1
+Andre Bulcão,Homem,Bruno Schulze,Homem,1
+Andre Bulcão,Homem,Gabriel G. Silva,Mulher,1
+Andre Bulcão,Homem,Mariza Ferro,Mulher,1
+Andre Bulcão,Homem,Ricardo Bragança,Homem,1
+Andre Bulcão,Homem,Rodrigo Gandra,Homem,1
+Andre Bulcão,Homem,Vinicius Klõh,Homem,1
+Andreu Carminati,Homem,Bruno Dourado Miranda,Homem,1
+Andreu Carminati,Homem,Romulo Silva de Oliveira,Homem,1
+André Barreto,Homem,Felipe Oliveira,Homem,1
+André Barreto,Homem,Jean Araújo,Homem,1
+André Barreto,Homem,Luan Lins,Homem,1
+André C. Drummond,Homem,Paulo J. S. Júnior,Homem,1
+André Nascimento,Homem,Daniel de Oliveira,Homem,1
+André Nascimento,Homem,Victor Olimpio,Homem,1
+André Soares,Homem,Brena Santos,Mulher,1
+André Soares,Homem,Francisco Airton Silva,Homem,1
+André Yokoyama,Homem,Bruno Schulze,Homem,1
+André Yokoyama,Homem,Gabriel G. Silva,Mulher,1
+André Yokoyama,Homem,Mariza Ferro,Mulher,1
+André Yokoyama,Homem,Ricardo Bragança,Homem,1
+André Yokoyama,Homem,Rodrigo Gandra,Homem,1
+André Yokoyama,Homem,Vinicius Klõh,Homem,1
+Antônio Augusto de A. Rocha,Homem,Carlos A. V. Campos,Homem,1
+Antônio Augusto de A. Rocha,Homem,Daniel de M. C. Christiani,Homem,1
+Arnaud Legrand,Homem,Lucas Mello Schnorr,Homem,1
+Arnaud Legrand,Homem,Luka Stanisic,Homem,1
+Arnaud Legrand,Homem,Samuel Thibault,Homem,1
+Arnaud Legrand,Homem,Vincent Danjean,Homem,1
+Arnaud Legrand,Homem,Vinicius Garcia Pinto,Homem,1
+Arthur de C. Callado,Homem,Michel S. Bonfim,Homem,1
+Arthur de C. Callado,Homem,Paulo A. L. Rego,Homem,1
+Arthur de C. Callado,Homem,Roseli da R. Barbosa,Mulher,1
+Artur Ziviani,Homem,Breno Machado,Homem,1
+Artur Ziviani,Homem,Carla Delgado,Mulher,1
+Artur Ziviani,Homem,Daniel Menasch,Homem,1
+Artur Ziviani,Homem,Gustavo S. Carnivali,Homem,1
+Artur Ziviani,Homem,Italo Cunha,Homem,1
+Artur Ziviani,Homem,Paulo A. A. Esquef,Homem,1
+Artur Ziviani,Homem,Raul G. M. de Freitas,Homem,1
+Benhur Tessele,Homem,Cristian Koliver,Homem,1
+Benhur Tessele,Homem,Romulo Silva de Oliveira,Homem,1
+Brena Santos,Mulher,Daniel Carvalho,Homem,1
+Brena Santos,Mulher,Francisco Airton Silva,Homem,3
+Brena Santos,Mulher,Iure Fé,Homem,1
+Brena Santos,Mulher,Patricia Takako Endo,Mulher,1
+Breno Machado,Homem,Italo Cunha,Homem,1
+Bruna A. da Silva,Homem,Cleber Zanchettin,Homem,1
+Bruna A. da Silva,Homem,David Macedo,Homem,1
+Bruna A. da Silva,Homem,Paulo F. C. Barbosa,Homem,1
+Bruna A. da Silva,Homem,Renato M. de Moraes,Homem,2
+Bruno Albertini,Homem,Vitor Finotti,Homem,1
+Bruno Demattos Nogueira,Homem,Fabricio Murai,Homem,2
+Bruno Demattos Nogueira,Homem,Francisco Galuppo Azevedo,Homem,2
+Bruno Dourado Miranda,Homem,Romulo Silva de Oliveira,Homem,1
+Bruno Duarte,Homem,Dierli M. da R. Maschio,Homem,1
+Bruno Duarte,Homem,Jean Patric da Costa,Homem,1
+Bruno Duarte,Homem,Marcelo Teixeira,Homem,1
+Bruno Rogério S. dos Santos,Homem,Joaquim C. Júnior,Homem,1
+Bruno Rogério S. dos Santos,Homem,Leonardo Rocha,Homem,1
+Bruno Rogério S. dos Santos,Homem,Renan da S. Alves,Homem,1
+Bruno Schulze,Homem,Gabriel G. Silva,Mulher,1
+Bruno Schulze,Homem,Mariza Ferro,Mulher,1
+Bruno Schulze,Homem,Ricardo Bragança,Homem,1
+Bruno Schulze,Homem,Rodrigo Gandra,Homem,1
+Bruno Schulze,Homem,Vinicius Klõh,Homem,1
+Bruno de Carvalho Albertini,Homem,Vivian Kimie Isuyama,Mulher,1
+Cabral Lima,Homem,Daniel Menasch,Homem,2
+Cabral Lima,Homem,Italo Cunha,Homem,2
+Cabral Lima,Homem,Leandro P. de Aguiar,Homem,2
+Caio Flexa,Homem,Sergio Viademonte,Homem,1
+Caio Flexa,Homem,Walisson Gomes,Homem,1
+Carla Delgado,Mulher,Daniel Menasch,Homem,2
+Carla Delgado,Mulher,Felipe Assis,Homem,1
+Carla Delgado,Mulher,João Ismael Pinheiro,Homem,1
+Carla Delgado,Mulher,Mateus S. Nogueira,Homem,1
+Carla Delgado,Mulher,Raul G. M. de Freitas,Homem,1
+Carla Rodriguez,Mulher,Vladimir Rocha,Homem,1
+Carlo Kleber da Silva Rodrigues,Homem,Rafael Zerbini Alves da Mata,Homem,1
+Carlo Kleber da Silva Rodrigues,Homem,Vladimir Emiliano Moreira Rocha,Homem,1
+Carlos A. T. Aguni,Homem,Daniel Cordeiro,Homem,1
+Carlos A. V. Campos,Homem,Daniel de M. C. Christiani,Homem,1
+Carlos Alberto V. Campos,Homem,Elton F. de S. Soares,Homem,1
+Carlos Alberto V. Campos,Homem,Leonardo Teteo,Homem,1
+Carlos Alberto V. Campos,Homem,Pedro Moura,Homem,1
+Carlos Brito,Homem,Francisco Airton Silva,Homem,1
+Carlos Brito,Homem,Guto Leoni,Homem,1
+Carlos Brito,Homem,Iure Fé,Homem,1
+Carlos Brito,Homem,Laécio Rodrigues,Homem,1
+Caroline Maul de A. Lima,Mulher,Eduardo A. da Silva,Homem,1
+Caroline Maul de A. Lima,Mulher,Pedro B. Velloso,Homem,1
+Cesar A. C. Marcondes,Homem,Diego F. Pedroso,Homem,1
+Cesar A. C. Marcondes,Homem,Emerson R. A. Barea,Homem,1
+Cesar A. C. Marcondes,Homem,Hermes Senger,Homem,1
+Christian Esteve Rothenberg,Homem,Daniel Lazkani Feferman,Homem,1
+Christian Esteve Rothenberg,Homem,Fabricio E. Rodriguez Cesen,Homem,1
+Christian Esteve Rothenberg,Homem,Juan Sebastian Mejia Vallejo,Homem,1
+Claudio Schepke,Homem,Natiele Lucca,Mulher,1
+Cleber Zanchettin,Homem,David Macedo,Homem,1
+Cleber Zanchettin,Homem,Paulo F. C. Barbosa,Homem,1
+Cleber Zanchettin,Homem,Renato M. de Moraes,Homem,1
+Cristian Koliver,Homem,Romulo Silva de Oliveira,Homem,1
+Daiane M. Pereira,Mulher,Rodrigo S. Couto,Homem,1
+Daniel Carvalho,Homem,Francisco Airton Silva,Homem,1
+Daniel Carvalho,Homem,Iure Fé,Homem,1
+Daniel Figueiredo,Homem,Giulio Iacobelli,Homem,2
+Daniel Figueiredo,Homem,João Vitor B. Tavares,Homem,1
+Daniel Figueiredo,Homem,Pedro Freitas,Homem,1
+Daniel Figueiredo,Homem,Rafael G. Damasceno,Homem,1
+Daniel Figueiredo,Homem,Ronald Souza,Homem,1
+Daniel Figueiredo,Homem,Victor Cardoso,Homem,1
+Daniel Lazkani Feferman,Homem,Juan Sebastian Mejia Vallejo,Homem,1
+Daniel Menasch,Homem,Diego Ximenes,Homem,1
+Daniel Menasch,Homem,Edmundo de Souza e Silva,Homem,1
+Daniel Menasch,Homem,Felipe Assis,Homem,1
+Daniel Menasch,Homem,Gabriel Mendonça,Homem,1
+Daniel Menasch,Homem,Gustavo H. A. Santos,Homem,1
+Daniel Menasch,Homem,Italo Cunha,Homem,2
+Daniel Menasch,Homem,João Ismael Pinheiro,Homem,1
+Daniel Menasch,Homem,Leandro P. de Aguiar,Homem,3
+Daniel Menasch,Homem,Mateus S. Nogueira,Homem,1
+Daniel Menasch,Homem,Matheus Martins,Homem,1
+Daniel Menasch,Homem,Miguel A. Bicudo,Homem,1
+Daniel Menasch,Homem,Raul G. M. de Freitas,Homem,1
+Daniel Menasch,Homem,Rosa M.M. Leão,Mulher,1
+Daniel R. F. Bonetti,Homem,Gesiel Rios Lopes,Homem,1
+Daniel R. F. Bonetti,Homem,Gonzalo Travieso,Homem,1
+Daniel R. F. Bonetti,Homem,Kalinka Branco,Mulher,1
+Daniel R. F. Bonetti,Homem,Paulo S. L. Souza,Homem,1
+Daniel Ratton Figueiredo,Homem,José de Paula Neves Neto,Homem,1
+Daniel de Oliveira,Homem,Esther Pacitti,Mulher,1
+Daniel de Oliveira,Homem,Igor Barreto Rodrigues,Homem,1
+Daniel de Oliveira,Homem,Rodrigo A. P. Silva,Homem,1
+Daniel de Oliveira,Homem,Victor Olimpio,Homem,1
+Daniel de Oliveira,Homem,Yuri Frota,Homem,1
+Danielo G. Gomes,Homem,Emanuel Coutinho,Homem,1
+Danielo G. Gomes,Homem,Joari S. L. Filho,Homem,1
+Danielo G. Gomes,Homem,José Neuman de Souza,Homem,1
+Danielo G. Gomes,Homem,Leonardo Moreira,Homem,1
+Danielo G. Gomes,Homem,Manuel G. da S. Neto,Homem,1
+Danielo G. Gomes,Homem,Maurício M. Neto,Homem,1
+Danielo G. Gomes,Homem,Michelle Cacais,Mulher,1
+Danielo G. Gomes,Homem,Paulo A. L. Rego,Homem,1
+Danielo G. Gomes,Homem,Paulo Armando C. Aguilar,Homem,1
+Danielo G. Gomes,Homem,Rossana M. C. Andrade,Mulher,1
+Darlan Eziquiel Felisberto da Silva,Homem,Karina Wiechork,Mulher,1
+Darlan Eziquiel Felisberto da Silva,Homem,Marco Antoni,Homem,1
+David Macedo,Homem,Paulo F. C. Barbosa,Homem,1
+David Macedo,Homem,Renato M. de Moraes,Homem,1
+Denilson Souza Bélo,Homem,Edson Midorikawa,Homem,1
+Denilson Souza Bélo,Homem,Liria M. Sato,Mulher,1
+Denis Rosário,Homem,Eduardo Cerqueira,Homem,2
+Denis Rosário,Homem,Helder Oliveira,Homem,1
+Denis Rosário,Homem,Leandro A. Villas,Homem,1
+Denis Rosário,Homem,Rafael Lopes,Homem,1
+Denis Rosário,Homem,Wellington Lobato Junior,Homem,1
+Diego F. Pedroso,Homem,Emerson R. A. Barea,Homem,1
+Diego F. Pedroso,Homem,Hermes Senger,Homem,1
+Diego L. Cardoso,Homem,Igor W. A. Falcão,Homem,1
+Diego L. Cardoso,Homem,Marcos C. R. Seruffo,Homem,1
+Diego L. Cardoso,Homem,Rafael F. Vieira,Homem,1
+Diego Ximenes,Homem,Edmundo de Souza e Silva,Homem,1
+Diego Ximenes,Homem,Gabriel Mendonça,Homem,1
+Diego Ximenes,Homem,Gustavo H. A. Santos,Homem,1
+Diego Ximenes,Homem,Rosa M.M. Leão,Mulher,1
+Dierli M. da R. Maschio,Homem,Jean Patric da Costa,Homem,1
+Dierli M. da R. Maschio,Homem,Marcelo Teixeira,Homem,1
+Diogo Menezes Ferrazani Mattos,Homem,Luiz Claudio Schara Magalhães,Homem,1
+Djalma A. Lima Filho,Homem,José A. Suruagy Monteiro,Homem,1
+Dorgival Guedes,Homem,Nestor D. O. Volpini,Homem,2
+Dorgival Guedes,Homem,Raphael L. Pontes,Homem,1
+Dorgival Guedes,Homem,Vinicius S. Conceição,Homem,2
+Douglas Siqueira,Homem,Francisco A. Silva,Homem,1
+Douglas Siqueira,Homem,Paulo A. L. Rego,Homem,1
+Douglas Siqueira,Homem,Paulo H. Rocha,Homem,1
+Douglas Siqueira,Homem,Tomaz Bisneto,Homem,1
+Edelberto Franco,Homem,Frederico O. Sales,Homem,1
+Edmundo de Souza e Silva,Homem,Gabriel Mendonça,Homem,1
+Edmundo de Souza e Silva,Homem,Gustavo H. A. Santos,Homem,1
+Edmundo de Souza e Silva,Homem,Rosa M.M. Leão,Mulher,1
+Edson L. Padoin,Homem,Jairo Panetta,Homem,2
+Edson L. Padoin,Homem,Matheus S. Serpa,Homem,1
+Edson L. Padoin,Homem,Matheus da Silva Serpa,Homem,1
+Edson L. Padoin,Homem,Pablo José Pavan,Homem,1
+Edson L. Padoin,Homem,Philippe O. A. Navaux,Homem,3
+Edson L. Padoin,Homem,Ricardo K. Lorenzoni,Homem,1
+Edson L. Padoin,Homem,Vinicius R. S. dos Santos,Homem,1
+Edson L. Padoin,Homem,Víctor Martínez,Homem,1
+Edson Midorikawa,Homem,Felipe V. de Almeida,Homem,1
+Edson Midorikawa,Homem,Liria M. Sato,Mulher,2
+Edson Midorikawa,Homem,Tatiana T. Torres,Mulher,1
+Eduardo A. da Silva,Homem,Pedro B. Velloso,Homem,1
+Eduardo Cerqueira,Homem,Helder Oliveira,Homem,1
+Eduardo Cerqueira,Homem,Leandro A. Villas,Homem,1
+Eduardo Cerqueira,Homem,Rafael Lopes,Homem,1
+Eduardo Cerqueira,Homem,Wellington Lobato Junior,Homem,1
+Eduardo Ferreira Baroni,Homem,Gabriel Medina Braga,Homem,1
+Eduardo H. Teixeira,Homem,Mateus Manuel,Homem,1
+Eduardo H. Teixeira,Homem,Renan Costa,Homem,1
+Edvar Afonso L. Filho,Homem,Miguel Elias M. Campista,Homem,1
+Elton F. de S. Soares,Homem,Leonardo Teteo,Homem,1
+Elton F. de S. Soares,Homem,Pedro Moura,Homem,1
+Emanuel Coutinho,Homem,José Neuman de Souza,Homem,1
+Emanuel Coutinho,Homem,Leonardo Moreira,Homem,1
+Emanuel Coutinho,Homem,Maurício M. Neto,Homem,1
+Emerson R. A. Barea,Homem,Hermes Senger,Homem,1
+Ermeson Andrade,Homem,Ewerton Queiroz,Homem,1
+Ermeson Andrade,Homem,Gabriel Alves,Homem,1
+Ermeson Andrade,Homem,Gustavo Callou,Homem,1
+Ermeson Andrade,Homem,Júlio Mendonça,Homem,2
+Ermeson Andrade,Homem,Valdir Carvalho,Homem,1
+Ermeson Andrade,Homem,Wilson Medeiros,Homem,1
+Esther Pacitti,Mulher,Rodrigo A. P. Silva,Homem,1
+Esther Pacitti,Mulher,Yuri Frota,Homem,1
+Ewerton Queiroz,Homem,Gustavo Callou,Homem,1
+Ewerton Queiroz,Homem,Júlio Mendonça,Homem,1
+Ewerton Queiroz,Homem,Valdir Carvalho,Homem,1
+Fabricio J. B. Brito,Homem,Filipe C. Fernandes,Homem,1
+Fabricio J. B. Brito,Homem,Ramon C. F. Araújo,Homem,1
+Fabricio J. B. Brito,Homem,Rodrigo M. S. Oliveira,Homem,1
+Fabricio Murai,Homem,Francisco Galuppo Azevedo,Homem,2
+Felipe A. L. Soares,Homem,Henrique C. Freitas,Homem,1
+Felipe A. L. Soares,Homem,Humberto T. Marques-Neto,Homem,1
+Felipe A. L. Soares,Homem,Tiago B. Silveira,Homem,1
+Felipe Assis,Homem,João Ismael Pinheiro,Homem,1
+Felipe Assis,Homem,Mateus S. Nogueira,Homem,1
+Felipe Oliveira,Homem,Jean Araújo,Homem,1
+Felipe Oliveira,Homem,Luan Lins,Homem,1
+Felipe V. de Almeida,Homem,Liria M. Sato,Mulher,1
+Felipe V. de Almeida,Homem,Tatiana T. Torres,Mulher,1
+Filipe C. Fernandes,Homem,Ramon C. F. Araújo,Homem,1
+Filipe C. Fernandes,Homem,Rodrigo M. S. Oliveira,Homem,1
+Flávio Rocha,Homem,Hudson Lopes,Homem,1
+Flávio Rocha,Homem,Maykon Renan Pereira da Silva,Homem,1
+Flávio Rocha,Homem,Ricardo Bruno de Oliveira,Homem,1
+Flávio Rocha,Homem,Évelynn Rosa,Mulher,1
+Franciny Barreto,Mulher,Jhonatan T. Cabral Néry,Homem,1
+Franciny Barreto,Mulher,Joslaine C. Jeske de Freitas,Mulher,1
+Francisco A. Silva,Homem,Paulo A. L. Rego,Homem,1
+Francisco A. Silva,Homem,Paulo H. Rocha,Homem,1
+Francisco A. Silva,Homem,Tomaz Bisneto,Homem,1
+Francisco Airton Silva,Homem,Glauber Dias Gonçalves,Homem,1
+Francisco Airton Silva,Homem,Guto Leoni,Homem,1
+Francisco Airton Silva,Homem,Igor Gonçalves,Homem,1
+Francisco Airton Silva,Homem,Iure Fé,Homem,3
+Francisco Airton Silva,Homem,Jussara Almeida,Mulher,1
+Francisco Airton Silva,Homem,Laécio Rodrigues,Homem,3
+Francisco Airton Silva,Homem,Lucas Santos,Homem,1
+Francisco Airton Silva,Homem,Matheus Torquato,Homem,1
+Francisco Airton Silva,Homem,Patricia Takako Endo,Mulher,1
+Francisco Airton Silva,Homem,Patrícia Endo,Mulher,1
+Francisco Airton Silva,Homem,Paulo Henrique Rocha,Homem,1
+Francisco Airton Silva,Homem,Samuel de Oliveira Ribeiro,Homem,1
+Francisco José Monaco,Homem,Lourenço Alves Pereira Júnior,Homem,1
+Francisco José Monaco,Homem,Marcos José Santana,Homem,1
+Francisco José Monaco,Homem,Regina H. Carlucci Sanatana,Mulher,1
+Gabriel Alves,Homem,Júlio Mendonça,Homem,1
+Gabriel Alves,Homem,Wilson Medeiros,Homem,1
+Gabriel B. Moro,Homem,Lucas Mello Schnorr,Homem,1
+Gabriel F. C. de Queiroz,Homem,Rodrigo S. Couto,Homem,1
+Gabriel G. Silva,Mulher,Mariza Ferro,Mulher,1
+Gabriel G. Silva,Mulher,Ricardo Bragança,Homem,1
+Gabriel G. Silva,Mulher,Rodrigo Gandra,Homem,1
+Gabriel G. Silva,Mulher,Vinicius Klõh,Homem,1
+Gabriel Mendonça,Homem,Gustavo H. A. Santos,Homem,1
+Gabriel Mendonça,Homem,Rosa M.M. Leão,Mulher,1
+Gesiel Rios Lopes,Homem,Gonzalo Travieso,Homem,1
+Gesiel Rios Lopes,Homem,Kalinka Branco,Mulher,1
+Gesiel Rios Lopes,Homem,Paulo S. L. Souza,Homem,1
+Giulio Iacobelli,Homem,João Vitor B. Tavares,Homem,1
+Giulio Iacobelli,Homem,Pedro Freitas,Homem,1
+Giulio Iacobelli,Homem,Victor Cardoso,Homem,1
+Glauber Dias Gonçalves,Homem,Jussara Almeida,Mulher,1
+Glauber Dias Gonçalves,Homem,Samuel de Oliveira Ribeiro,Homem,1
+Gonzalo Travieso,Homem,Kalinka Branco,Mulher,1
+Gonzalo Travieso,Homem,Paulo S. L. Souza,Homem,1
+Gustavo Callou,Homem,Júlio Mendonça,Homem,1
+Gustavo Callou,Homem,Valdir Carvalho,Homem,1
+Gustavo H. A. Santos,Homem,Rosa M.M. Leão,Mulher,1
+Gustavo M. D. Vieira,Homem,William B. Mingardi,Homem,1
+Gustavo S. Carnivali,Homem,Paulo A. A. Esquef,Homem,1
+Guto Leoni,Homem,Iure Fé,Homem,1
+Guto Leoni,Homem,Laécio Rodrigues,Homem,1
+Helder Oliveira,Homem,Rafael Lopes,Homem,1
+Henrique C. Freitas,Homem,Humberto T. Marques-Neto,Homem,1
+Henrique C. Freitas,Homem,Tiago B. Silveira,Homem,1
+Hudson Lopes,Homem,Ricardo Bruno de Oliveira,Homem,1
+Hugo Kuribayashi,Homem,Isaac Barros,Homem,1
+Hugo Kuribayashi,Homem,João Barbosa,Homem,1
+Hugo Kuribayashi,Homem,João Carmona,Homem,1
+Hugo Kuribayashi,Homem,Warley Junior,Homem,1
+Hugo Kuribayashi,Homem,Wendel Serra,Homem,1
+Humberto T. Marques-Neto,Homem,Tiago B. Silveira,Homem,1
+Igor Gonçalves,Homem,Iure Fé,Homem,1
+Igor Gonçalves,Homem,Laécio Rodrigues,Homem,1
+Igor Gonçalves,Homem,Patrícia Endo,Mulher,1
+Igor W. A. Falcão,Homem,Marcos C. R. Seruffo,Homem,1
+Igor W. A. Falcão,Homem,Rafael F. Vieira,Homem,1
+Isaac Barros,Homem,João Barbosa,Homem,1
+Isaac Barros,Homem,João Carmona,Homem,1
+Isaac Barros,Homem,Warley Junior,Homem,1
+Isaac Barros,Homem,Wendel Serra,Homem,1
+Italo Cunha,Homem,Leandro P. de Aguiar,Homem,2
+Iure Fé,Homem,Laécio Rodrigues,Homem,2
+Iure Fé,Homem,Patrícia Endo,Mulher,1
+Jairo Panetta,Homem,Matheus S. Serpa,Homem,1
+Jairo Panetta,Homem,Matheus da Silva Serpa,Homem,1
+Jairo Panetta,Homem,Pablo José Pavan,Homem,1
+Jairo Panetta,Homem,Philippe O. A. Navaux,Homem,2
+Jairo Panetta,Homem,Ricardo K. Lorenzoni,Homem,1
+Jairo Panetta,Homem,Víctor Martínez,Homem,1
+Jasiel G. Bahia,Homem,Miguel Elias M. Campista,Homem,1
+Jean Araújo,Homem,Luan Lins,Homem,1
+Jean Patric da Costa,Homem,Marcelo Teixeira,Homem,1
+Jhonatan T. Cabral Néry,Homem,Joslaine C. Jeske de Freitas,Mulher,1
+Joaquim C. Júnior,Homem,Leonardo Rocha,Homem,1
+Joaquim C. Júnior,Homem,Renan da S. Alves,Homem,1
+Joari S. L. Filho,Homem,Manuel G. da S. Neto,Homem,1
+Joari S. L. Filho,Homem,Paulo A. L. Rego,Homem,1
+José Neuman de Souza,Homem,Leonardo Moreira,Homem,1
+José Neuman de Souza,Homem,Maurício M. Neto,Homem,1
+João Barbosa,Homem,João Carmona,Homem,1
+João Barbosa,Homem,Warley Junior,Homem,1
+João Barbosa,Homem,Wendel Serra,Homem,1
+João Carmona,Homem,Warley Junior,Homem,1
+João Carmona,Homem,Wendel Serra,Homem,1
+João Ismael Pinheiro,Homem,Mateus S. Nogueira,Homem,1
+Juliano F. Kazienko,Homem,Silvio E. Quincozes,Homem,1
+Juliano F. Kazienko,Homem,Vagner E. Quincozes,Homem,1
+Jussara Almeida,Mulher,Samuel de Oliveira Ribeiro,Homem,1
+Júlio Mendonça,Homem,Valdir Carvalho,Homem,1
+Júlio Mendonça,Homem,Wilson Medeiros,Homem,1
+Kalinka Branco,Mulher,Paulo S. L. Souza,Homem,1
+Karina Wiechork,Mulher,Marco Antoni,Homem,1
+Lauri P. Laux Jr,Homem,Roberto A. Hexsel,Homem,1
+Laécio Rodrigues,Homem,Lucas Santos,Homem,1
+Laécio Rodrigues,Homem,Matheus Torquato,Homem,1
+Laécio Rodrigues,Homem,Patrícia Endo,Mulher,1
+Leandro A. Villas,Homem,Wellington Lobato Junior,Homem,1
+Leandro P. de Aguiar,Homem,Matheus Martins,Homem,1
+Leandro P. de Aguiar,Homem,Miguel A. Bicudo,Homem,1
+Leonardo Moreira,Homem,Maurício M. Neto,Homem,1
+Leonardo Rocha,Homem,Renan da S. Alves,Homem,1
+Leonardo Teteo,Homem,Pedro Moura,Homem,1
+Liria M. Sato,Mulher,Tatiana T. Torres,Mulher,1
+Lourenço Alves Pereira Júnior,Homem,Marcos José Santana,Homem,1
+Lourenço Alves Pereira Júnior,Homem,Regina H. Carlucci Sanatana,Mulher,1
+Lucas Mello Schnorr,Homem,Luka Stanisic,Homem,1
+Lucas Mello Schnorr,Homem,Samuel Thibault,Homem,1
+Lucas Mello Schnorr,Homem,Vincent Danjean,Homem,1
+Lucas Mello Schnorr,Homem,Vinicius Garcia Pinto,Homem,1
+Lucas Santos,Homem,Matheus Torquato,Homem,1
+Luciano Paschoal Gaspary,Homem,Nicolas Silveira Kagami,Homem,1
+Luka Stanisic,Homem,Samuel Thibault,Homem,1
+Luka Stanisic,Homem,Vincent Danjean,Homem,1
+Luka Stanisic,Homem,Vinicius Garcia Pinto,Homem,1
+Manuel G. da S. Neto,Homem,Paulo A. L. Rego,Homem,1
+Marcos C. R. Seruffo,Homem,Rafael F. Vieira,Homem,1
+Marcos José Santana,Homem,Regina H. Carlucci Sanatana,Mulher,1
+Mariza Ferro,Mulher,Ricardo Bragança,Homem,1
+Mariza Ferro,Mulher,Rodrigo Gandra,Homem,1
+Mariza Ferro,Mulher,Vinicius Klõh,Homem,1
+Mateus Manuel,Homem,Renan Costa,Homem,1
+Matheus Martins,Homem,Miguel A. Bicudo,Homem,1
+Matheus S. Serpa,Homem,Philippe O. A. Navaux,Homem,1
+Matheus S. Serpa,Homem,Ricardo K. Lorenzoni,Homem,1
+Matheus da Silva Serpa,Homem,Pablo José Pavan,Homem,1
+Matheus da Silva Serpa,Homem,Philippe O. A. Navaux,Homem,1
+Matheus da Silva Serpa,Homem,Víctor Martínez,Homem,1
+Michel S. Bonfim,Homem,Paulo A. L. Rego,Homem,1
+Michel S. Bonfim,Homem,Roseli da R. Barbosa,Mulher,1
+Michelle Cacais,Mulher,Paulo Armando C. Aguilar,Homem,1
+Michelle Cacais,Mulher,Rossana M. C. Andrade,Mulher,1
+Nestor D. O. Volpini,Homem,Raphael L. Pontes,Homem,1
+Nestor D. O. Volpini,Homem,Vinicius S. Conceição,Homem,2
+Pablo José Pavan,Homem,Philippe O. A. Navaux,Homem,1
+Pablo José Pavan,Homem,Víctor Martínez,Homem,1
+Paulo A. L. Rego,Homem,Paulo H. Rocha,Homem,1
+Paulo A. L. Rego,Homem,Roseli da R. Barbosa,Mulher,1
+Paulo A. L. Rego,Homem,Tomaz Bisneto,Homem,1
+Paulo Armando C. Aguilar,Homem,Rossana M. C. Andrade,Mulher,1
+Paulo F. C. Barbosa,Homem,Renato M. de Moraes,Homem,1
+Paulo H. Rocha,Homem,Tomaz Bisneto,Homem,1
+Pedro Freitas,Homem,Victor Cardoso,Homem,1
+Philippe O. A. Navaux,Homem,Ricardo K. Lorenzoni,Homem,1
+Philippe O. A. Navaux,Homem,Vinicius R. S. dos Santos,Homem,1
+Philippe O. A. Navaux,Homem,Víctor Martínez,Homem,1
+Ramon C. F. Araújo,Homem,Rodrigo M. S. Oliveira,Homem,1
+Raphael L. Pontes,Homem,Vinicius S. Conceição,Homem,1
+Renato M. de Moraes,Homem,Vandenberg B. da Paixão,Homem,1
+Ricardo Bragança,Homem,Rodrigo Gandra,Homem,1
+Ricardo Bragança,Homem,Vinicius Klõh,Homem,1
+Rodrigo A. P. Silva,Homem,Yuri Frota,Homem,1
+Rodrigo Gandra,Homem,Vinicius Klõh,Homem,1
+Samuel Thibault,Homem,Vincent Danjean,Homem,1
+Samuel Thibault,Homem,Vinicius Garcia Pinto,Homem,1
+Sergio Viademonte,Homem,Walisson Gomes,Homem,1
+Silvio E. Quincozes,Homem,Vagner E. Quincozes,Homem,1
+Vincent Danjean,Homem,Vinicius Garcia Pinto,Homem,1
+Warley Junior,Homem,Wendel Serra,Homem,1

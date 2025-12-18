@@ -1,0 +1,16 @@
+Métrica,Valor
+Nós,652.0
+Nós (Homens),405.0
+Nós (Mulheres),247.0
+Arestas,1285.0
+Grau Médio,3.9417
+Densidade,0.0061
+Clusterização Global (Transitivity),0.713
+Clusterização Média (Average),0.8117
+Assortatividade (Gênero),0.0752
+Componentes Conectados,126.0
+Nós (LCC),40.0
+Distância Média,1.7923
+Diâmetro,2.0
+Modularity,0.4067
+Comunidades (Louvain),5.0
